@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.computer1",
+  "simulationId": "computer1",
+  "start": 1672233539944,
+  "description": "",
+  "scenarios": ["computer"],
+  "assertions": [
+
+  ]
+}
